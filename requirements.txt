@@ -1,0 +1,4 @@
+You need to install latest version of python2.7
+Then,
+pip install matplotlib
+pip install scipy
